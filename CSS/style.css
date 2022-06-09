@@ -1,0 +1,254 @@
+.navbar{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.empty-div{
+  width: 400px;
+}
+
+.sec-1{
+  position: relative;
+  background: url("images/pexels-photo-5965948.jpeg");
+  background-size: cover;
+  width: 100%;
+  max-width: 1600px;
+  height: 900px;
+  display: flex;
+  justify-content: space-evenly;
+  background-position: center;
+  
+}
+
+.sec1-item{
+  padding-top: 40px;
+  max-width: 600px;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.health1{
+  font-size: 60px;
+  color: white;
+}
+
+.timetogethealthy{
+  font-size: 20px;
+  color: white;
+  margin-left: 10px;
+}
+
+.healthpara{
+  padding-top: 10px;
+  color: white;
+  margin-left: 10px;
+}
+
+.health{
+  margin-top: 70px;
+}
+
+.btn1{
+  width: 150px;
+  height: 45px;
+  border: none;
+  color: rgb(214, 148, 220);
+
+}
+
+.sec-2{
+  margin: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.sec2part1{
+  width: 25%;
+}
+
+
+.sec2part1{
+  color: black;
+}
+
+.sec2part2{
+  width:70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.btn2{
+  width: 150px;
+  height: 45px;
+  border: none;
+  color: white;
+  background-color: black;
+}
+
+.card1{
+  color: white;
+  background-color: brown;
+  text-align: center;
+}
+
+.card2{
+  margin-left: 10px;
+  color: white;
+  background-color: greenyellow;
+  text-align: center;
+}
+
+.card3{
+  color: white;
+  margin-left: 10px;
+  background-color: blueviolet;
+  text-align: center;
+}
+
+.sec-3{
+  background: url("/images/pexels-photo-4038777.jpeg");
+  position: relative;
+  /* background: url("images/pexels-photo-5965948.jpeg"); */
+  background-size: cover;
+  width: 100%;
+  max-width: 1600px;
+  height: 900px;
+  display: flex;
+  justify-content: space-evenly;
+  background-position: center;
+
+}
+.btn3{
+  width: 185px;
+  height: 45px;
+  border: none;
+  color: white;
+  background-color: pink;
+}
+.emailbtn{
+  width: 50rempx;
+  height: 45px;
+  border: none;
+  
+}
+.content{
+  margin-top: 250px;
+  margin-right: 700px;
+}
+
+.sec-4{
+  background-color: pink;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+table {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.r{
+  display: flex;
+  flex-direction: row;
+}
+
+.d div{
+  display: flex;
+  flex-direction: row;
+}
+.d img{
+  width: 50px;
+}
+
+.sec-7{
+  margin-top: 30px;
+  margin-bottom: 90px;
+  text-align: center;
+}
+.sec-7 h1{
+  color: rgb(249, 192, 255);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  /* background-color: #2196F3; */
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  /* border: 1px solid rgba(0, 0, 0, 0.8); */
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.grid-item img{
+  width: 450px;
+}
+
+.sec-8{
+  background-color: rgb(158, 151, 151);
+  padding: 20px;
+  justify-content: space-evenly;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+}
+
+.sec8part1{
+  width:46% ;
+  display: flex;
+  flex-direction: column;
+  justify-items: space-evenly;
+}
+
+.second{
+  width: 600px;
+  height: 15px;
+  background-color: pink;
+}
+
+.sec8part2{
+  width:46% ;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-items: space-evenly;
+}
+
+.btn4{
+  width: 185px;
+  height: 45px;
+  border: none;
+  color: white;
+  background-color: pink;
+}
+
+.first1{
+ height: 400px;
+  
+}
+
+.real{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: pink;
+}
+
+
+
+footer{
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: black;
+  opacity: 0.6;
+}
